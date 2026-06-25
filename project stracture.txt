@@ -1,0 +1,39 @@
+ThreeCards-Travel/
+│
+├── index.html
+├── about.html
+├── flights.html
+├── hotels.html
+├── packages.html
+├── visa.html
+├── contact.html
+├── login.html
+├── signup.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── script.js
+│   ├── search.js
+│   ├── darkmode.js
+│   └── validation.js
+│
+├── images/
+│   ├── hero.jpg
+│   ├── logo.png
+│   ├── dubai.jpg
+│   ├── malaysia.jpg
+│   ├── thailand.jpg
+│   ├── canada.jpg
+│   ├── usa.jpg
+│   └── hotel.jpg
+│
+├── assets/
+│   ├── fonts/
+│   └── icons/
+│
+├── README.md
+└── LICENSE
